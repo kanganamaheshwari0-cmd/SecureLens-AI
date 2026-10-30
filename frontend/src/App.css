@@ -8,18 +8,18 @@
   font-synthesis: none;
   text-rendering: optimizeLegibility;
 }
-
+/* 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
+} */
 
-body {
+/* body {
   min-width: 320px;
   min-height: 100vh;
   background: #101014;
-}
+} */
 
 button, select {
   font: inherit;
@@ -37,7 +37,7 @@ button {
 
 /* SIDEBAR */
 
-.sidebar {
+/* .sidebar {
   width: 255px;
   min-width: 255px;
   background: #151519;
@@ -49,7 +49,7 @@ button {
   inset: 0 auto 0 0;
   z-index: 5;
   overflow-y: auto;
-}
+} */
 
 .brand {
   display: flex;
